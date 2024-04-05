@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**sgk-samuel/sgk-samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning svelte 
+- 👯 I’m looking to collaborate on github
+- 🤔 I’m looking for help with twitter
+- 💬 Ask me about html、css and javascript
+- 📫 How to reach me: 3228891558@qq.com
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgk-samuel&show_icons=true&theme=onedark)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/python-3.9-orange?logo=python)
+
