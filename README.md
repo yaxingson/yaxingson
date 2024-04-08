@@ -1,5 +1,7 @@
 ## Hey, I am samuel. 👋
 
+<img src="https://img2.imgtp.com/2024/04/08/PZo0RNre.png" />
+
 <div>
   <ul>
     <li>🌱 I’m currently learning svelte</li> 
