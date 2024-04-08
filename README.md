@@ -1,6 +1,6 @@
 ## Hey, I am samuel. 👋
 
-<img src="https://img2.imgtp.com/2024/04/08/rjQSA4mf.png" />
+<img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" />
 
 <div>
   <ul>
