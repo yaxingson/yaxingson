@@ -1,7 +1,7 @@
 <h1>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+samuel!%F0%9F%91%8B">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1F2328B6&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+samuel!%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+samuel!%F0%9F%91%8B">
   <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
  </picture>
 </h1>
@@ -10,7 +10,7 @@
 
 <div>
   <ul>
-    <li>🌱 I’m currently learning svelte</li> 
+    <li>🌱 I’m currently learning svelte ...</li> 
     <li>👯 I’m looking to collaborate on github</li>
     <li>🤔 I’m looking for help with twitter</li>
     <li>💬 Ask me about html、css and javascript</li>
@@ -33,7 +33,3 @@
    &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3sgk-samuel&labelColor=282c34&color=353940&logo=github&longCache=true" >
 </div>
-
-
-
-
