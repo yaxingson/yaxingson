@@ -16,6 +16,11 @@
 
 ## statistics
 
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=sgk-samuel" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgk-samuel&layout=compact&langs_count=8" />
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sgk-samuel" />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgk-samuel&theme=dracula&bg_color=00000000&line=f00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
   <img src="https://badgen.net/static/code%20style/standard/f2a" />
@@ -26,5 +31,6 @@
    &nbsp; &nbsp; &nbsp;
   <img src="https://badgen.net/npm/v/express" />
    &nbsp; &nbsp; &nbsp;
-  <img src="https://badgen.net/gitlab/stars/fdroid/fdroidclient" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3sgk-samuel&labelColor=282c34&color=353940&logo=github&longCache=true" >
+  
 </div>
