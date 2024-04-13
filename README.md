@@ -1,8 +1,8 @@
-# Hey, I am samuel. 👋
-
 <img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" />
 
 ## intro
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hey%2C+I+am+smauel!)](https://git.io/typing-svg)
 
 <div>
   <ul>
