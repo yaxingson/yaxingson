@@ -1,4 +1,10 @@
-## Hey, I am samuel!
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1F2328B6&vCenter=true&random=false&width=435&height=31&lines=Hey%2C+I+am+samuel!%F0%9F%91%8B">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+##
 
 <img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" />
 
