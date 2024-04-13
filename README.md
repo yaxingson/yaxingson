@@ -1,6 +1,8 @@
-## Hey, I am samuel. 👋
+# Hey, I am samuel. 👋
 
 <img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" />
+
+## intro
 
 <div>
   <ul>
@@ -12,7 +14,8 @@
   </ul>
 </div>
 
-<img src="https://img2.imgtp.com/2024/04/12/sXgo5JYI.png" />
+## statistics
+
 
 <div>
   <img src="https://badgen.net/static/code%20style/standard/f2a" />
