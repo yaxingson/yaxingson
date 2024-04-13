@@ -33,3 +33,5 @@
    &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsgk-samuel&query=%24.followers&style=flat&logo=github&label=followers" >
 </div>
+
+<img src="https://img2.imgtp.com/2024/04/13/dQMjX8JO.png" />
