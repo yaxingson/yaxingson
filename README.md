@@ -1,6 +1,6 @@
 <img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" />
 
-## intro
+## Introduction
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hey%2C+I+am+smauel!)](https://git.io/typing-svg)
 
@@ -14,13 +14,13 @@
   </ul>
 </div>
 
-## statistics
+## Statistics
 
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=sgk-samuel" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgk-samuel&layout=compact&langs_count=8" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sgk-samuel" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgk-samuel&theme=dracula&bg_color=00000000&line=f00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgk-samuel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
   <img src="https://badgen.net/static/code%20style/standard/f2a" />
