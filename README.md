@@ -22,7 +22,7 @@
 
 — Linus Torvalds
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgk-samuel&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
   <img src="https://badgen.net/static/code%20style/standard/f2a" />
