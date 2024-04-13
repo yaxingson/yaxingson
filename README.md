@@ -1,8 +1,6 @@
+## Hey, I am samuel!
+
 <img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" />
-
-## Introduction
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Hey%2C+I+am+smauel!)](https://git.io/typing-svg)
 
 <div>
   <ul>
@@ -14,13 +12,9 @@
   </ul>
 </div>
 
-## Statistics
+> Real quality means making sure that people are proud of the code they write, that they’re involved and taking it personally.
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=sgk-samuel" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgk-samuel&layout=compact&langs_count=8" />
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sgk-samuel" />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sgk-samuel&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+— Linus Torvalds
 
 <div>
   <img src="https://badgen.net/static/code%20style/standard/f2a" />
@@ -32,5 +26,8 @@
   <img src="https://badgen.net/npm/v/express" />
    &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3sgk-samuel&labelColor=282c34&color=353940&logo=github&longCache=true" >
-  
 </div>
+
+
+
+
