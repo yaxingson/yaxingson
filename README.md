@@ -27,9 +27,9 @@
   &nbsp; &nbsp; &nbsp;
   <img src="https://badgen.net/static/license/MIT/blue" />
    &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/package-5-yellow?style=flat&logo=npm" />
-   &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/blog-%40samuel-orange?style=flat&logo=About.me" />
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/package-5-yellow?style=flat&logo=npm" />
    &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsgk-samuel&query=%24.followers&style=flat&logo=github&label=followers" >
 </div>
