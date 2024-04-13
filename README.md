@@ -1,7 +1,7 @@
 <h1>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+samuel!%F0%9F%91%8B">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+samuel!%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=555555&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+samuel!%F0%9F%91%8B">
   <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
  </picture>
 </h1>
