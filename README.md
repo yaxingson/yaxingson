@@ -1,7 +1,7 @@
 <h1>
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+suamel!%F0%9F%91%8B">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+suamel!%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+soetas!%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+soetas!%F0%9F%91%8B">
   <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
  </picture>
 </h1>
@@ -31,7 +31,7 @@
   &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/package-5-yellow?style=flat&logo=npm" />
    &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsuamel&query=%24.followers&style=flat&logo=github&label=followers" >
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsoetas&query=%24.followers&style=flat&logo=github&label=followers" >
 </div>
 
 <!-- <img width="100%" src="https://img2.imgtp.com/2024/04/13/KfBkmcVj.png" /> -->
