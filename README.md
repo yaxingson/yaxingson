@@ -27,7 +27,7 @@
   &nbsp; &nbsp; &nbsp;
   <img src="https://badgen.net/static/license/MIT/blue" />
    &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/blog-%40samuel-orange?style=flat&logo=About.me" />
+  <img src="https://img.shields.io/badge/blog-%40soetas-orange?style=flat&logo=About.me" />
   &nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/package-5-yellow?style=flat&logo=npm" />
    &nbsp; &nbsp; &nbsp;
