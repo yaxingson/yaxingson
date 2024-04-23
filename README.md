@@ -40,6 +40,4 @@ Find me on
  <img src="https://img.shields.io/badge/-bilibili-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
-<br />
-
-<img width="100%" src="https://img2.imgtp.com/2024/04/23/zO2N88YH.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=120&section=footer" />
