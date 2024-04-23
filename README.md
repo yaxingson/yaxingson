@@ -22,6 +22,8 @@
 
 — Linus Torvalds
 
+Find me on
+
 <div>
   <img src="https://badgen.net/static/code%20style/standard/f2a" />
   &nbsp; &nbsp; &nbsp;
@@ -34,5 +36,5 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsoetas&query=%24.followers&style=flat&logo=github&label=followers" >
 </div>
 
-<!-- <img width="100%" src="https://img2.imgtp.com/2024/04/13/KfBkmcVj.png" /> -->
+<img width="100%" src="https://img2.imgtp.com/2024/04/13/KfBkmcVj.png" />
 
