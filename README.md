@@ -25,16 +25,17 @@
 Find me on
 
 <div>
-  <img src="https://badgen.net/static/code%20style/standard/f2a" />
+  <img src="https://img.shields.io/badge/stackoverflow-3-orange?style=flat&logo=stackoverflow" />
   &nbsp; &nbsp; &nbsp;
-  <img src="https://badgen.net/static/license/MIT/blue" />
+  <img src="https://img.shields.io/badge/twitter-8-blue?style=flat&logo=twitter" />
    &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/blog-%40soetas-orange?style=flat&logo=About.me" />
+  <img src="https://img.shields.io/badge/blog-%40soetas-lightgray?style=flat&logo=About.me" />
   &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/package-5-yellow?style=flat&logo=npm" />
+  <img src="https://img.shields.io/badge/npm-5-yellow?style=flat&logo=npm" />
    &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsoetas&query=%24.followers&style=flat&logo=github&label=followers" >
+  <img src="https://img.shields.io/badge/youtube-5-white?style=flat&logo=youtube" />
+  &nbsp; &nbsp; &nbsp;
+ <img src="https://img.shields.io/badge/instagram-5-tomato?style=flat&logo=instagram" />
 </div>
 
 <img width="100%" src="https://img2.imgtp.com/2024/04/13/KfBkmcVj.png" />
-
