@@ -25,17 +25,19 @@
 Find me on
 
 <div>
-  <img src="https://img.shields.io/badge/stackoverflow-3-orange?style=flat&logo=stackoverflow" />
+  <img src="https://img.shields.io/badge/-stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/twitter-8-blue?style=flat&logo=twitter" />
+  <img src="https://img.shields.io/badge/-twitter-blue?style=flat&logo=twitter&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/blog-%40soetas-lightgray?style=flat&logo=About.me" />
+  <img src="https://img.shields.io/badge/-blog-lightgray?style=flat&logo=About.me&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/npm-5-yellow?style=flat&logo=npm" />
+  <img src="https://img.shields.io/badge/-npm-yellow?style=flat&logo=npm&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/youtube-5-white?style=flat&logo=youtube" />
+  <img src="https://img.shields.io/badge/-youtube-white?style=flat&logo=youtube&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;
- <img src="https://img.shields.io/badge/instagram-5-tomato?style=flat&logo=instagram" />
+ <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
+  &nbsp; &nbsp; &nbsp;
+ <img src="https://img.shields.io/badge/-bilibili-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
 <!-- <img width="100%" src="https://img2.imgtp.com/2024/04/13/KfBkmcVj.png" /> -->
