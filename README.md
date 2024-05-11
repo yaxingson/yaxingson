@@ -9,7 +9,7 @@
 <!-- <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=5" /> -->
 <!-- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=soetas" /> -->
 
-<img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" />
+<!-- <img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" /> -->
 
 <div>
   <ul>
@@ -43,5 +43,5 @@ Find me on
  <img src="https://img.shields.io/badge/-bilibili-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4f6ae8&height=120&section=footer" /> 
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4f6ae8&height=120&section=footer" /> -->
 
