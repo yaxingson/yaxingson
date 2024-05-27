@@ -6,9 +6,6 @@
  </picture>
 </h1>
 
-<!-- <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=5" /> -->
-<!-- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=soetas" /> -->
-
 <!-- <img src="https://img2.imgtp.com/2024/04/08/SwszssvR.png" /> -->
 
 <div>
@@ -24,6 +21,13 @@
 > Real quality means making sure that people are proud of the code they write, that they’re involved and taking it personally.
 
 — Linus Torvalds
+
+<details>
+ <summary>github-readme-stats</summary>
+ <br />
+ <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=5" />
+ <img height="180px" src="https://github-readme-stats.vercel.app/api?username=soetas" />
+</details>
 
 <br />
 
