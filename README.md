@@ -22,6 +22,11 @@
 
 — Linus Torvalds
 
+| Projects | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 <details>
  <summary>github-readme-stats</summary>
  <br />
