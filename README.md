@@ -20,19 +20,6 @@
 
 — Linus Torvalds
 
-```mermaid
-mindmap
-root[web]
- id)frontend(
-  id)html(
-  id)css(
-  id)javascript(
- id)backend(
-  id)database(
-  id)server(
-  id)docker(
-```
-
 <details>
  <summary>github-readme-stats</summary>
  <br />
