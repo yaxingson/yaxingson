@@ -2,7 +2,7 @@
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+soetas!%F0%9F%91%8B">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+soetas!%F0%9F%91%8B">
-  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+  <img alt="Hey,I am soetas!" src="Hey,I am soetas!">
  </picture>
 </h1>
 
@@ -19,6 +19,16 @@
 > Real quality means making sure that people are proud of the code they write, that they’re involved and taking it personally.
 
 — Linus Torvalds
+
+```mermaid
+flowchart LR
+   skill ==> frontend
+   skill ==> backend
+   frontend ~~~ backend
+   frontend ==> html
+   frontend ==> css
+   frontend ==> javascript
+```
 
 <details>
  <summary>github-readme-stats</summary>
