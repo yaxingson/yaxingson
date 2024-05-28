@@ -20,15 +20,15 @@
 
 — Linus Torvalds
 
-<!--
+```mermaid
+mindmap
+    id1["`**Root** with
+a second line
+Unicode works too: 🤓`"]
+      id2["`The dog in **the** hog... a *very long text* that wraps to a new line`"]
+      id3[Regular labels still works]
 
-| Projects | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-| git status | List all new or modified files |
-
--->
+```
 
 <details>
  <summary>github-readme-stats</summary>
