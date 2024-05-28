@@ -21,13 +21,16 @@
 — Linus Torvalds
 
 ```mermaid
-flowchart LR
-   skill ==> frontend
-   skill ==> backend
-   frontend ~~~ backend
-   frontend ==> html
-   frontend ==> css
-   frontend ==> javascript
+mindmap
+root[web]
+ id)frontend(
+  id)html(
+  id)css(
+  id)javascript(
+ id)backend(
+  id)database(
+  id)server(
+  id)docker(
 ```
 
 <details>
