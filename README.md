@@ -23,7 +23,7 @@
 <details>
  <summary>github-readme-stats</summary>
  <br />
- <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=5" />
+ <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6" />
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=soetas" />
 </details>
 
