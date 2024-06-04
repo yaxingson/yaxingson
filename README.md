@@ -20,11 +20,15 @@
 
 — Linus Torvalds
 
+<!--
+
 | Projects |  Version | Description |
 | ---      |  ---     |  ---        |
 |  x        |          |              |
 |   x     |          |              |
 |   x      |          |              |
+
+-->
 
 <details>
  <summary>github-readme-stats</summary>
