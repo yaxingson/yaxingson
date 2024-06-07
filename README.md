@@ -20,15 +20,13 @@
 
 — Linus Torvalds
 
-<!--
-
-| Projects |  Version | Description |
+| Projects | Version  | Description |
 | ---      |  ---     |  ---        |
-|  x        |          |              |
+|   x       |          |              |
 |   x     |          |              |
 |   x      |          |              |
-
--->
+|   x     |          |              |
+|   x      |          |              |
 
 <details>
  <summary>github-readme-stats</summary>
