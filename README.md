@@ -49,8 +49,6 @@
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-blog-lightgray?style=flat&logo=About.me&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-npm-yellow?style=flat&logo=npm&labelColor=gray" />
-   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-youtube-white?style=flat&logo=youtube&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
  <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
