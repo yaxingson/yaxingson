@@ -8,23 +8,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=gray" />
- <a href=""></a>
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&labelColor=gray" />
-   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-blog-lightgray?style=flat&logo=About.me&labelColor=gray" />
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-youtube-white?style=flat&logo=youtube&labelColor=gray" />
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
- <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
- <img src="https://img.shields.io/badge/-bilibili-blue?style=flat&logo=bilibili&labelColor=gray" />
-</div>
-
-<br />
-
 <div>
   <ul>
     <li>🌱 I’m currently learning svelte ...</li> 
@@ -57,5 +40,22 @@
  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6" />
  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=soetas" />
 </details>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=gray" />
+ <a href=""></a>
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&labelColor=gray" />
+   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-blog-lightgray?style=flat&logo=About.me&labelColor=gray" />
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-youtube-white?style=flat&logo=youtube&labelColor=gray" />
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+ <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+ <img src="https://img.shields.io/badge/-bilibili-blue?style=flat&logo=bilibili&labelColor=gray" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=120&section=footer" />
