@@ -6,8 +6,6 @@
  </picture>
 </h1>
 
-<br />
-
 <div>
   <ul>
     <li>🌱 I’m currently learning svelte ...</li> 
@@ -19,18 +17,16 @@
 </div>
 
 > Real quality means making sure that people are proud of the code they write, that they’re involved and taking it personally.
-
+ 
 — Linus Torvalds
 
 <!-- 
 
 | Projects | Version  | Description |
 | ---      |  ---     |  ---        |
-|   x       |          |              |
-|   x     |          |              |
 |   x      |          |              |
 |   x     |          |              |
-|   x      |          |              |
+|  x       |          |              |
 
 -->
 
