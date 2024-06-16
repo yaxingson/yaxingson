@@ -30,9 +30,6 @@
   </picture>
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6&theme=tokyonight">
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6">
