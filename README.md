@@ -16,40 +16,35 @@
   </ul>
 </div>
 
-> Real quality means making sure that people are proud of the code they write, that they’re involved and taking it personally.
- 
+> Real quality means making sure that people are proud of the code they write, that they’re involved and taking it personally. 
 — Linus Torvalds
 
-<!-- 
-
-| Projects | Version  | Description |
-| ---      |  ---     |  ---        |
-|   x      |          |              |
-|   x     |          |              |
-|  x       |          |              |
-
--->
-
-<details>
- <summary>github-readme-stats</summary>
- <br />
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6">
-  <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6&theme=tokyonight"/> 
- </picture>
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soetas&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=soetas">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=soetas&theme=tokyonight" />
- </picture>
-</details>
+<div>
+ <details>
+  <summary>github-readme-stats</summary>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=soetas&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=soetas">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=soetas&theme=tokyonight" />
+  </picture>
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6&theme=tokyonight">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6">
+   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soetas&layout=compact&langs_count=6&theme=tokyonight"/> 
+  </picture>
+ </details>
+</div>
 
 <br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/-stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=gray" />
- <a href=""></a>
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
@@ -57,9 +52,9 @@
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-youtube-white?style=flat&logo=youtube&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
- <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
- <img src="https://img.shields.io/badge/-bilibili-blue?style=flat&logo=bilibili&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-bilibili-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=105&section=footer" />
