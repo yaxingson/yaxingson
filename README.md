@@ -20,11 +20,15 @@
 
 — Linus Torvalds
 
+<!--
+
 | Project | Description |  Latest |
 | --- | --- | --- |
 | TODO |  |  |
 | TODO |  |  |
 | TODO |  |  |
+
+-->
 
 <div>
  <details>
