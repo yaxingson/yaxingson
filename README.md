@@ -25,8 +25,6 @@
 | TODO |  |  |
 | TODO |  |  |
 | TODO |  |  |
-| TODO |  |  |
-| TODO |  |  |
 
 <div>
  <details>
