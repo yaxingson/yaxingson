@@ -95,7 +95,7 @@
 
 <br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soetas&theme=github&height=200)](https://github.com/soetas/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soetas&theme=github&height=300)](https://github.com/soetas/github-readme-activity-graph)
 
 <br />
 
