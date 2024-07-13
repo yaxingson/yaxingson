@@ -52,7 +52,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-facebook-blue?style=flat&logo=facebook&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-twitter-blue?style=flat&logo=x&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-blog-lightgray?style=flat&logo=About.me&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
