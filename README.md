@@ -56,13 +56,11 @@
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-blog-lightgray?style=flat&logo=About.me&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-juejin-blue?style=flat&logo=juejin&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-稀土掘金-blue?style=flat&logo=juejin&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-youtube-white?style=flat&logo=youtube&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-bilibili-blue?style=flat&logo=bilibili&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=100&section=footer" />
