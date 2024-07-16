@@ -50,7 +50,7 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-gmail-tomato?style=flat&logo=gmail&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-twitter-blue?style=flat&logo=x&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
