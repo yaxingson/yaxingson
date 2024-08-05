@@ -52,13 +52,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-twitter-blue?style=flat&logo=x&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-gitee-white?style=flat&logo=gitee&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-blog-lightgray?style=flat&logo=About.me&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-稀土掘金-blue?style=flat&logo=juejin&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-youtube-white?style=flat&logo=youtube&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
