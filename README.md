@@ -63,4 +63,4 @@
   <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:224e52,100:2b145c&height=120&section=footer" />
