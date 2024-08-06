@@ -60,7 +60,7 @@
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-哔哩哔哩-skyblue?style=flat&logo=bilibili&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-哔哩哔哩-dodgerblue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0969da&height=100&section=footer" />
