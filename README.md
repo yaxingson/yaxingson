@@ -2,7 +2,7 @@
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+soetas!%F0%9F%91%8B">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+soetas!%F0%9F%91%8B">
-  <img alt="Hey,I am soetas!" src="Hey,I am soetas!">
+  <img alt="Hey,I am soetas!" src="">
  </picture>
 </h1>
 
@@ -19,16 +19,6 @@
 > Real quality means making sure that people are proud of the code they write, that they’re involved and taking it personally.
 
 — Linus Torvalds
-
-<!--
-
-| Project | Description |  Latest |
-| --- | --- | --- |
-| TODO |  |  |
-| TODO |  |  |
-| TODO |  |  |
-
--->
 
 <div>
  <details>
@@ -63,4 +53,4 @@
   <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d41d4,100:0d1117&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d41d4,100:0d1117&section=footer" width="100%" />
