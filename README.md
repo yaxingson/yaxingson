@@ -53,5 +53,6 @@
   <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=005AA7&section=footer&height=120" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=ddf4ff&height=120&section=footer&text=talk+is+cheap.+show+me+the+code.&fontSize=36&animation=fadeIn&fontColor=fff" width="100%" />
