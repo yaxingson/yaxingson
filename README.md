@@ -56,4 +56,4 @@
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=73C2FB&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=73C2FB&height=130&section=footer" width="100%" />
