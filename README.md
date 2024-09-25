@@ -38,7 +38,6 @@
 </div>
 
 <br />
-<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
@@ -54,6 +53,7 @@
   <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
 
+<br />
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=73C2FB&height=120&section=footer" width="100%" />
