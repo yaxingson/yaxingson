@@ -54,5 +54,6 @@
 </div>
 
 <br />
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=9cdbf1&height=120&section=footer&text=talk+is+cheap.+show+me+the+code.&fontSize=36&animation=fadeIn&fontColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=9cdbf1&height=120&section=footer&fontSize=36&animation=fadeIn&fontColor=fff" width="100%" />
