@@ -48,7 +48,7 @@
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-稀土掘金-blue?style=flat&logo=juejin&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-stackoverflow-orange?style=flat&logo=stackoverflow&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-leetcode-yellow?style=flat&logo=leetcode&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=flat&logo=bilibili&labelColor=gray" />
 </div>
