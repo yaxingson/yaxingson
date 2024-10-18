@@ -40,17 +40,17 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-instagram-tomato?style=flat&logo=instagram&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-instagram-tomato?style=social&logo=instagram&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-gitee-white?style=flat&logo=gitee&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-gitee-white?style=social&logo=gitee&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-blog-lightgray?style=flat&logo=About.me&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-blog-lightgray?style=social&logo=About.me&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-稀土掘金-blue?style=flat&logo=juejin&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-稀土掘金-blue?style=social&logo=juejin&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-leetcode-orange?style=flat&logo=leetcode&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-leetcode-orange?style=social&logo=leetcode&labelColor=gray" />
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=flat&logo=bilibili&labelColor=gray" />
+  <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=social&logo=bilibili&labelColor=gray" />
 </div>
 
 <br />
