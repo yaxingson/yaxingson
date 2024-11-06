@@ -30,9 +30,9 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight" />
   </picture>
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&layout=compact&langs_count=6&theme=dark">
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&layout=compact&langs_count=6">
-   <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&layout=compact&langs_count=6&theme=tokyonight"/> 
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson&theme=dark">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson">
+   <img height="180" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson"/> 
   </picture>
  </details>
 </div>
@@ -40,6 +40,8 @@
 <br />
 
 <div align="center">
+  <img src="https://img.shields.io/badge/-instagram-white?style=social&logo=instagram&labelColor=tomato" />
+   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-gitee-white?style=social&logo=gitee&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-blog-lightgray?style=social&logo=About.me&labelColor=gray" />
