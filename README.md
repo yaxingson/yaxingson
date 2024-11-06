@@ -41,7 +41,7 @@
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-instagram-white?style=social&logo=instagram&labelColor=tomato" />
+   <img src="https://img.shields.io/badge/-instagram-white?style=social&logo=instagram&labelColor=tomato" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-gitee-white?style=social&logo=gitee&labelColor=gray" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
