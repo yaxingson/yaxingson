@@ -27,12 +27,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight" width="48%" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight" width="45%" />
   </picture>
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson&theme=dark">
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson">
-   <img height="170" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson" width="48%" /> 
+   <img height="180" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson" width="50%" /> 
   </picture>
  </details>
 </div>
