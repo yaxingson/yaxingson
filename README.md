@@ -43,17 +43,17 @@
 <br />
 
 <div align="center">
-   <img src="https://img.shields.io/badge/-instagram-white?style=social&logo=instagram&labelColor=tomato" />
-   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-gitee-white?style=social&logo=gitee&labelColor=gray" />
-   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-blog-lightgray?style=social&logo=About.me&labelColor=gray" />
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-稀土掘金-blue?style=social&logo=juejin&labelColor=gray" />
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-leetcode-orange?style=social&logo=leetcode&labelColor=gray" />
-  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/-哔哩哔哩-blue?style=social&logo=bilibili&labelColor=gray" />
+   <a href="">instagram</a>
+   &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+  <a href="">gitee</a>
+   &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+  <a href="">blog</a>
+  &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp;
+  <a href="">juejin</a>
+  &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp;
+  <a href="">leetcode</a>
+  &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp;
+  <a href="">bilibili</a>
 </div>
 
 <br />
