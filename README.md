@@ -11,7 +11,9 @@
   <ul>
     <li>nodejs <a href="https://nodejs.org/">https://nodejs.org/</a></li> 
     <li>npm <a href="https://www.npmjs.com/">https://www.npmjs.com/</a></li>
+    <li>git <a href="https://git-scm.com/">https://git-scm.com/</a></li>
     <li>vue <a href="https://vuejs.org/">https://vuejs.org/</a></li>
+    <li>vite <a href="https://vite.dev/">https://vite.dev/</a></li>
     <li>typescript <a href="https://www.typescriptlang.org/">https://www.typescriptlang.org/</a></li>
     <li>visual studio code <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
   </ul>
@@ -56,4 +58,4 @@
 
 <br />
 
-<p>If my code has been helpful to you, kindly consider <a href="">sponsoring me</a>. </p>
+<p>If my code has been helpful to you, kindly consider <a href="/">sponsoring me</a>. </p>
