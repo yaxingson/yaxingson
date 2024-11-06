@@ -7,6 +7,7 @@
 </h1>
 
 <div>
+  <p>Open source libraries, frameworks, and tools that I use frequently: </p>
   <ul>
     <li>nodejs <a href="https://nodejs.org/">https://nodejs.org/</a></li> 
     <li>npm <a href="https://www.npmjs.com/">https://www.npmjs.com/</a></li>
