@@ -44,15 +44,15 @@
 
 <div align="center">
    <a href="">instagram</a>
-   &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+   &nbsp; &nbsp; &nbsp; ・ &nbsp; &nbsp; &nbsp;
   <a href="">gitee</a>
-   &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp;
+   &nbsp; &nbsp; &nbsp; ・ &nbsp; &nbsp; &nbsp;
   <a href="">blog</a>
-  &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;  ・ &nbsp; &nbsp; &nbsp;
   <a href="">juejin</a>
-  &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;  ・ &nbsp; &nbsp; &nbsp;
   <a href="">leetcode</a>
-  &nbsp; &nbsp; &nbsp;  | &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp;  ・ &nbsp; &nbsp; &nbsp;
   <a href="">bilibili</a>
 </div>
 
