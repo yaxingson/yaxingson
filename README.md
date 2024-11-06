@@ -8,11 +8,11 @@
 
 <div>
   <ul>
-    <li>🌱 I’m currently learning svelte ...</li> 
-    <li>👯 I’m looking to collaborate on github</li>
-    <li>🤔 I’m looking for help with twitter</li>
-    <li>💬 Ask me about html、css and javascript</li>
-    <li>📫 How to reach me: 3228891558@qq.com</li>
+    <li>nodejs <a href="https://nodejs.org/">https://nodejs.org/</a></li> 
+    <li>npm <a href="https://www.npmjs.com/">https://www.npmjs.com/</a></li>
+    <li>vue <a href="https://vuejs.org/">https://vuejs.org/</a></li>
+    <li>typescript <a href="https://www.typescriptlang.org/">https://www.typescriptlang.org/</a></li>
+    <li>visual studio code <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
   </ul>
 </div>
 
