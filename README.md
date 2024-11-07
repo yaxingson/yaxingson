@@ -61,13 +61,13 @@
   <summary>Github readme stats</summary>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson&border_color=3d444d&theme=transparent">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson&border_color=3d444d">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight"/>
   </picture>
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact&theme=dark">
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact&border_color=3d444d&theme=transparen">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact&border_color=3d444d">
    <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact"/> 
   </picture>
  </details>
