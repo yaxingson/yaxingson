@@ -33,21 +33,20 @@
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="" height="50"/></a> &nbsp;
-      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
-      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="" height="50"/></a>
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="" height="50"/></a>
     </td>
    </tr>
    <tr>
     <td>devops</td>
     <td>
-      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="" height="50"/></a>
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="" height="50"/></a> &nbsp;
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="" height="50"/></a> &nbsp;
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="" height="50"/></a> &nbsp;
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="" height="50"/></a> &nbsp;
       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="" height="50"/></a> &nbsp;
-      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="" height="50"/></a>
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="" height="50"/></a>
     </td>
    </tr>
   </tbody>
