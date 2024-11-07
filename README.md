@@ -30,7 +30,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight" width="48%" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight" width="47%" />
   </picture>
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson&theme=dark">
