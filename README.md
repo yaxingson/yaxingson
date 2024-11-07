@@ -95,4 +95,4 @@
 
 <br />
 
-<p>If my code has been helpful to you, kindly consider <a href="/">sponsoring me</a>. </p>
+<p>If my code has been helpful to you, kindly consider supporting me. <a href="/">Github sponsor</a> / <a href="">Afdian</a></p> 
