@@ -75,7 +75,7 @@
 
 <div>
  <details>
-  <summary>Contact me</summary>
+  <summary>Find me on</summary>
   <br />
   <div align="center">
    <img src="https://img.shields.io/badge/-blog-white?style=social&logo=about.me" alt="" />
