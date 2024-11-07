@@ -78,8 +78,6 @@
 <br />
 
 <div align="center">
-   <img src="https://img.shields.io/badge/-instagram-white?style=social&logo=instagram" alt="" />
-   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
    <img src="https://img.shields.io/badge/-blog-white?style=social&logo=about.me" alt="" />
    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
   <img src="https://img.shields.io/badge/-gitee-white?style=social&logo=gitee" alt="" />
