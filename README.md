@@ -69,7 +69,7 @@
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact&theme=dark">
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact">
-   <img height="180" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson"/> 
+   <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact"/> 
   </picture>
  </details>
 </div>
