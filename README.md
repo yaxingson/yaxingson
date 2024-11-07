@@ -1,22 +1,57 @@
-<h1 align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
-  <img alt="Hey,I am yaxing!" src="">
- </picture>
-</h1>
+<div>
+ <h1 align="center">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
+   <img alt="Hey,I am yaxing!" src="">
+  </picture>
+ </h1>
+</div>
 
 <div>
-  <p>Open source libraries, frameworks, and tools that I use frequently: </p>
-  <ul>
-    <li>nodejs <a href="https://nodejs.org/">https://nodejs.org/</a></li> 
-    <li>npm <a href="https://www.npmjs.com/">https://www.npmjs.com/</a></li>
-    <li>git <a href="https://git-scm.com/">https://git-scm.com/</a></li>
-    <li>vue <a href="https://vuejs.org/">https://vuejs.org/</a></li>
-    <li>vite <a href="https://vite.dev/">https://vite.dev/</a></li>
-    <li>typescript <a href="https://www.typescriptlang.org/">https://www.typescriptlang.org/</a></li>
-    <li>visual studio code <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a></li>
-  </ul>
+ <p>Open source libraries, frameworks, and tools that I use frequently： </p>
+ <table>
+  <tbody>
+   <tr>
+    <td>frontend</td>
+    <td>
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="" height="50"/></a>
+    </td>
+   </tr>
+   <tr>
+    <td>backend</td>
+    <td>
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="" height="50"/></a>
+    </td>
+   </tr>
+   <tr>
+    <td>devops</td>
+    <td>
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="" height="50"/></a>
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="" height="50"/></a> &nbsp;
+      <a href=""><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="" height="50"/></a>
+    </td>
+   </tr>
+  </tbody>
+ </table>
 </div>
 
 > Real quality means making sure that people are proud of the code they write, that they’re involved and taking it personally.
@@ -30,12 +65,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight" width="47%" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight"/>
   </picture>
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson&theme=dark">
-   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson">
-   <img height="200" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson" width="50%" /> 
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact&theme=dark">
+   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxingson&langs_count=6&layout=compact">
+   <img height="180" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson"/> 
   </picture>
  </details>
 </div>
@@ -43,21 +78,21 @@
 <br />
 
 <div align="center">
-   <a href="">instagram</a>
-   &nbsp; &nbsp; &nbsp; ・ &nbsp; &nbsp; &nbsp;
-  <a href="">gitee</a>
-   &nbsp; &nbsp; &nbsp; ・ &nbsp; &nbsp; &nbsp;
-  <a href="">blog</a>
-  &nbsp; &nbsp; &nbsp;  ・ &nbsp; &nbsp; &nbsp;
-  <a href="">juejin</a>
-  &nbsp; &nbsp; &nbsp;  ・ &nbsp; &nbsp; &nbsp;
-  <a href="">leetcode</a>
-  &nbsp; &nbsp; &nbsp;  ・ &nbsp; &nbsp; &nbsp;
-  <a href="">bilibili</a>
-  &nbsp;&nbsp;&nbsp;  ・  &nbsp;&nbsp;&nbsp;
- <a href="">tiktok</a>
+   <img src="https://img.shields.io/badge/-instagram-white?style=social&logo=instagram" alt="" />
+   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+   <img src="https://img.shields.io/badge/-blog-white?style=social&logo=about.me" alt="" />
+   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-gitee-white?style=social&logo=gitee" alt="" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-juejin-white?style=social&logo=juejin" alt="" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-leetcode-white?style=social&logo=leetcode" alt="" />
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://img.shields.io/badge/-bilibili-white?style=social&logo=bilibili" alt="" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-tiktok-white?style=social&logo=tiktok" alt="" />
 </div>
 
-<br /> <br />
+<br />
 
 <p>If my code has been helpful to you, kindly consider <a href="/">sponsoring me</a>. </p>
