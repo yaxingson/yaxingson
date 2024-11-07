@@ -1,7 +1,7 @@
 <h1 align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
   <img alt="Hey,I am yaxing!" src="">
  </picture>
 </h1>
@@ -30,12 +30,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yaxingson">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight" width="45%" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=yaxingson&theme=tokyonight" width="48%" />
   </picture>
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson&theme=dark">
    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson">
-   <img height="180" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson" width="50%" /> 
+   <img height="200" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yaxingson" width="50%" /> 
   </picture>
  </details>
 </div>
