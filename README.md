@@ -1,16 +1,16 @@
-<div>
+<div align="center">
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
+   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
+   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxing!%F0%9F%91%8B">
    <img alt="Hey,I am yaxing!" src="">
   </picture>
-  <br /> <br />
+  <br /> <br /> <br />
   <p>
     <span>💻 coding</span> &nbsp;・&nbsp;
+    <span>📐 design</span> &nbsp;・&nbsp;
     <span>📖 read</span> &nbsp;・&nbsp;
     <span>📷 photo</span> &nbsp;・&nbsp;
-    <span>📐 design</span> &nbsp;・&nbsp;
-    <span>🎸 music</span>
+    <span>🎸 music&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   </p>
 </div>
 
