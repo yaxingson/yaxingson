@@ -10,48 +10,48 @@
 
 <div>
  <details>
-  <summary>Libraries, frameworks and tools</summary>
+  <summary>Languages, libraries and tools</summary>
   <br />
    <table>
-   <tbody>
-    <tr>
-     <td>frontend</td>
-     <td>
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="" height="50"/></a>
-     </td>
-    </tr>
-    <tr>
-     <td>backend</td>
-     <td>
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="" height="50"/></a>
-     </td>
-    </tr>
-    <tr>
-     <td>devops</td>
-     <td>
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="" height="50"/></a> &nbsp;
-       <a href=""><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="" height="50"/></a>
-     </td>
-    </tr>
-   </tbody>
+     <tbody>
+      <tr>
+       <td>frontend</td>
+       <td>
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="" height="50"/></a>
+       </td>
+      </tr>
+      <tr>
+       <td>backend</td>
+       <td>
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="" height="50"/></a>
+       </td>
+      </tr>
+      <tr>
+       <td>devops</td>
+       <td>
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="" height="50"/></a> &nbsp;
+         <a href=""><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="" height="50"/></a>
+       </td>
+      </tr>
+     </tbody>
   </table>
  </details>
 </div>
