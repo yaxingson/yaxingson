@@ -88,17 +88,17 @@
   <summary>Find me on</summary>
   <br />
   <div align="center">
-   <img src="https://img.shields.io/badge/-blog-white?style=social&logo=about.me" alt="" />
+   <img src="https://img.shields.io/badge/-blog-blue?style=for-the-badge&logo=about.me&labelColor=gray" alt="" />
     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/-gitee-white?style=social&logo=gitee" alt="" />
+   <img src="https://img.shields.io/badge/-gitee-blue?style=for-the-badge&logo=gitee&labelColor=gray" alt="" />
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/-juejin-white?style=social&logo=juejin" alt="" />
+   <img src="https://img.shields.io/badge/-juejin-blue?style=for-the-badge&logo=juejin&labelColor=gray" alt="" />
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/-leetcode-white?style=social&logo=leetcode" alt="" />
+   <img src="https://img.shields.io/badge/-leetcode-blue?style=for-the-badge&logo=leetcode&labelColor=gray" alt="" />
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/-bilibili-white?style=social&logo=bilibili" alt="" />
+   <img src="https://img.shields.io/badge/-bilibili-blue?style=for-the-badge&logo=bilibili&labelColor=gray" alt="" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-tiktok-white?style=social&logo=tiktok" alt="" />
+   <img src="https://img.shields.io/badge/-tiktok-blue?style=for-the-badge&logo=tiktok&labelColor=gray" alt="" />
  </div>
  </details>
 </div>
