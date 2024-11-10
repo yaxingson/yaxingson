@@ -88,17 +88,17 @@
   <summary>Find me on</summary>
   <br />
   <div align="center">
-   <img src="https://img.shields.io/badge/-blog-blue?style=for-the-badge&logo=about.me&labelColor=gray" alt="" />
+   <img src="https://img.shields.io/badge/-blog-snow?style=flat-square&logo=about.me&labelColor=gray" alt="" />
     &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/-gitee-blue?style=for-the-badge&logo=gitee&labelColor=gray" alt="" />
+   <img src="https://img.shields.io/badge/-gitee-snow?style=flat-square&logo=gitee&labelColor=%23c71d23" alt="" />
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/-juejin-blue?style=for-the-badge&logo=juejin&labelColor=gray" alt="" />
+   <img src="https://img.shields.io/badge/-juejin-snow?style=flat-square&logo=juejin&labelColor=%231e80ff&logoColor=white" alt="" />
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/-leetcode-blue?style=for-the-badge&logo=leetcode&labelColor=gray" alt="" />
+   <img src="https://img.shields.io/badge/-leetcode-snow?style=flat-square&logo=leetcode&labelColor=%23ffa116&logoColor=white" alt="" />
    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-   <img src="https://img.shields.io/badge/-bilibili-blue?style=for-the-badge&logo=bilibili&labelColor=gray" alt="" />
+   <img src="https://img.shields.io/badge/-bilibili-snow?style=flat-square&logo=bilibili&labelColor=%2300a1d6&logoColor=white" alt="" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-tiktok-blue?style=for-the-badge&logo=tiktok&labelColor=gray" alt="" />
+   <img src="https://img.shields.io/badge/-tiktok-snow?style=flat-square&logo=tiktok&labelColor=%23090909&logoColor=white" alt="" />
  </div>
  </details>
 </div>
