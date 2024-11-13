@@ -8,10 +8,10 @@
   </picture>
   <br /> <br />
   <p>
-    <span>💻 code</span> &nbsp; · &nbsp;
-    <span>📐 design</span> &nbsp; · &nbsp;
-    <span>📖 read</span> &nbsp; · &nbsp;
-    <span>🏃 run</span> &nbsp; · &nbsp;
+    <span>💻 code</span> &nbsp;&nbsp; · &nbsp;&nbsp;
+    <span>📐 design</span> &nbsp;&nbsp; · &nbsp;&nbsp;
+    <span>📖 read</span> &nbsp;&nbsp; · &nbsp;&nbsp;
+    <span>🏃 run</span> &nbsp;&nbsp; · &nbsp;&nbsp;
     <span>🎸 music</span>
   </p>
 </div>
