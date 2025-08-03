@@ -10,15 +10,15 @@
    <div>
       <img src="https://img.shields.io/badge/-blog-%23f6f8fa?style=flat&logo=about.me&labelColor=gray" alt="" />
        &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-      <img src="https://img.shields.io/badge/-gitee-%23f6f8fa?style=flat&logo=gitee&labelColor=%23c71d23" alt="" />
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <img src="https://img.shields.io/badge/-juejin-%23f6f8fa?style=flat&logo=juejin&labelColor=%231e80ff&logoColor=white" alt="" />
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      <img src="https://img.shields.io/badge/-leetcode-%23f6f8fa?style=flat&logo=leetcode&labelColor=%23ffa116&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/-instagram-%23f6f8fa?style=flat&logo=instagram&labelColor=%23fc1b65" alt="" />
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <img src="https://img.shields.io/badge/-youtube-%23f6f8fa?style=flat&logo=youtube&labelColor=%23ff0033&logoColor=white" alt="" />
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <img src="https://img.shields.io/badge/-bilibili-%23f6f8fa?style=flat&logo=bilibili&labelColor=%2300a1d6&logoColor=white" alt="" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-tiktok-%23f6f8fa?style=flat&logo=tiktok&labelColor=%23090909&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/-twitter-%23f6f8fa?style=flat&logo=x&labelColor=%23090909&logoColor=white" alt="" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-bluesky-%23f6f8fa?style=flat&logo=bluesky&labelColor=rgb(0%2C%20133%2C%20255)&logoColor=white" alt="" />
    </div>
