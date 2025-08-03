@@ -16,7 +16,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-bilibili-%23f6f8fa?style=flat&logo=bilibili&labelColor=%2300a1d6&logoColor=white" alt="" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://img.shields.io/badge/-twitter-%23f6f8fa?style=flat&logo=x&labelColor=%23090909&logoColor=white" alt="" />
+      <img src="https://img.shields.io/badge/-tiktok-%23f6f8fa?style=flat&logo=tiktok&labelColor=%23090909&logoColor=white" alt="" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-bluesky-%23f6f8fa?style=flat&logo=bluesky&labelColor=rgb(0%2C%20133%2C%20255)&logoColor=white" alt="" />
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
