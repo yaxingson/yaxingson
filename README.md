@@ -1,5 +1,3 @@
-<img src="https://youke1.picui.cn/s1/2025/08/06/6893791643710.png" />
-
 <div align="center">
    <picture>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
