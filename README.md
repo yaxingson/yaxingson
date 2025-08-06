@@ -1,4 +1,4 @@
-<img src="https://youke1.picui.cn/s1/2025/08/06/689376ea77f7c.png" />
+<img src="https://youke1.picui.cn/s1/2025/08/06/689378b4008bc.png" />
 
 <div align="center">
    <picture>
