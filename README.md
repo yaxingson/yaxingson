@@ -1,12 +1,23 @@
 <div align="center">
    <picture>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playwrite+HU&weight=400&size=18&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxingson!%F0%9F%91%8B">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Playwrite+HU&weight=400&size=18&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxingson!%F0%9F%91%8B">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playwrite+HU&weight=400&size=20&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxingson!%F0%9F%91%8B">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Playwrite+HU&weight=400&size=20&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxingson!%F0%9F%91%8B">
       <img alt="Hey,I am yaxing!" src="">
    </picture>
-   <br /><br /><br />
+   <br /><br />
+   <div>
+      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
+      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">&nbsp;
+      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">&nbsp;
+      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
+      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;
+      <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
+      <img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+   </div>
+   <br /><br />
    <div>
       <img src="https://img.shields.io/badge/-blog-%23f6f8fa?style=for-the-badge&logo=about.me&labelColor=gray" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://img.shields.io/badge/-juejin-%23f6f8fa?style=for-the-badge&logo=juejin&labelColor=%231e80ff&logoColor=white" alt="" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
