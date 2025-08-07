@@ -2,7 +2,7 @@
    <picture>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playwrite+HU&weight=400&size=20&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxingson!%F0%9F%91%8B">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Playwrite+HU&weight=400&size=20&pause=1000&color=666666&vCenter=true&random=false&width=435&height=31&lines=Hey%2CI+am+yaxingson!%F0%9F%91%8B">
       <img alt="Hey,I am yaxing!" src="">
@@ -12,11 +12,10 @@
       <code><img height="20" src="https://skillicons.dev/icons?i=html"></code>&nbsp;
       <code><img height="20" src="https://skillicons.dev/icons?i=css"></code>&nbsp;
       <code><img height="20" src="https://skillicons.dev/icons?i=javascript"></code>&nbsp;
-      <code><img height="20" src="https://skillicons.dev/icons?i=typescript"></code>&nbsp;
-      <code><img height="20" src="https://skillicons.dev/icons?i=vue"></code>
-      <code><img height="20" src="https://skillicons.dev/icons?i=nodejs"></code>&nbsp;
-      <code><img height="20" src="https://skillicons.dev/icons?i=vscode"></code>&nbsp;
-      <code><img height="20" src="https://skillicons.dev/icons?i=git"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=vite"></code>&nbsp;
+      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+      <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>&nbsp;
       &nbsp;&nbsp;&nbsp;
    </div>
    <br /><br />
