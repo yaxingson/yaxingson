@@ -9,11 +9,14 @@
    </picture>
    <br /><br />
    <div>
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;
-      <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
-      <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+      <code><img height="20" src="https://skillicons.dev/icons?i=html"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=css"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=javascript"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=typescript"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=vue"></code>
+      <code><img height="20" src="https://skillicons.dev/icons?i=nodejs"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=vscode"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=git"></code>&nbsp;
       &nbsp;&nbsp;&nbsp;
    </div>
    <br /><br />
