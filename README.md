@@ -10,7 +10,7 @@
    <br /><br />
    <div>
       <code><img height="20" src="https://skillicons.dev/icons?i=gitlab"></code>&nbsp;
-      <code><img height="20" src="https://skillicons.dev/icons?i=go"></code>&nbsp;
+      <code><img height="20" src="https://camo.githubusercontent.com/6a5d2046028682a99b5fa88ef0f3399c9bced1d514179686a3973a323bccbf44/68747470733a2f2f7777772e6a7364656c6976722e636f6d2f69636f6e5f323536783235362e706e67"></code>&nbsp;
       <code><img height="20" src="https://pypi.org/static/images/logo-small.8998e9d1.svg"></code>&nbsp;
       <code><img height="16" src="https://pengzhanbo.cn/images/jsr-logo.svg"></code>&nbsp;
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>&nbsp;
