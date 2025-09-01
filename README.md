@@ -9,9 +9,9 @@
    </picture>
    <br /><br />
    <div>
-      <code><img height="20" src="https://skillicons.dev/icons?i=html"></code>&nbsp;
-      <code><img height="20" src="https://skillicons.dev/icons?i=css"></code>&nbsp;
-      <code><img height="20" src="https://skillicons.dev/icons?i=javascript"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=gitlab"></code>&nbsp;
+      <code><img height="20" src="https://skillicons.dev/icons?i=go"></code>&nbsp;
+      <code><img height="20" src="https://pypi.org/static/images/logo-small.8998e9d1.svg"></code>&nbsp;
       <code><img height="16" src="https://pengzhanbo.cn/images/jsr-logo.svg"></code>&nbsp;
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>&nbsp;
       <code><img height="20" src="https://skillicons.dev/icons?i=docker"></code>&nbsp;
