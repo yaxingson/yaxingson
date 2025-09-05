@@ -9,7 +9,7 @@
    </picture>
    <br /><br />
    <div>
-      <code><img height="20" src="https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png"></code>&nbsp;
+      <code><img height="20" src="https://vscode.js.cn/assets/apple-touch-icon.png"></code>&nbsp;
       <code><img height="20" src="https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico"></code>&nbsp;
       <code><img height="20" src="https://pypi.org/static/images/logo-small.8998e9d1.svg"></code>&nbsp;
       <code><img height="16" src="https://pengzhanbo.cn/images/jsr-logo.svg"></code>&nbsp;
